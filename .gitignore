@@ -1,0 +1,6 @@
+Debug/
+ipch/
+*.VC.db
+*.VC.opendb
+.vs/
+tiny-notepad/Debug/
