@@ -1,0 +1,1 @@
+Tiny notepad writing with Win32 API, need to built with `Visual Studio 2015`.
